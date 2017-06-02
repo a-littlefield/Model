@@ -23,14 +23,14 @@ li {
 	margin: 0px 10px;
 }
 .aboutNav {
-	color: black;
+	color: white;
 }
 /* Holds Navbar and company name (text) */
 .header {
 	color: white;
 }
 .about-header {
-	color: ;
+	color: white;
 }
 /* Holds the first pages' text directly on image */
 .welcome {
@@ -144,11 +144,15 @@ li {
 }
 
 /* About us page */
-#lol {
+.lol {
 	text-align: center;
 	padding-top: 200px;
 	width: 500px;
 	margin: 0 auto;
 	line-height: 40px;
+	color: lightgray;
 
+}
+#contact-us {
+	color: yellow;
 }
